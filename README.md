@@ -15,9 +15,15 @@ Sekarang lebih tertarik lihat dari sisi seberang.
     Handler: gh05t-r3ndra
 
 > Cepat tanggap adalah inti dari respons insiden.
+> 
 > Eskalasi dilakukan sesuai tingkat keparahan.
+>
 > Koordinasi lintas tim memperkecil dampak.
+>
 > Gunakan indikator kompromi untuk deteksi dini.
+>
 > Investigasi menyeluruh mencegah kekambuhan.
+>
 > Selalu dokumentasikan setiap temuan.
+>
 > Tutup celah sebelum aktor kembali.
