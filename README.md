@@ -20,6 +20,7 @@ Sekarang lebih tertarik lihat dari sisi seberang.
 >
 > Koordinasi lintas tim memperkecil dampak.
 >
+>
 > Gunakan indikator kompromi untuk deteksi dini.
 >
 > Investigasi menyeluruh mencegah kekambuhan.
